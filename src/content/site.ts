@@ -4,7 +4,7 @@ export const site = {
   base: "Chiari",
   provincia: "Brescia",
   territorio: "Chiari, Brescia, Franciacorta, Lago d'Iseo, Lago di Garda",
-  url: "https://giuseppe-goffi.vercel.app",
+  url: "http://localhost:3000",
   email: "",
   telefono: "",
   hero: {
